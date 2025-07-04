@@ -1,69 +1,52 @@
-# 💼 Portfolio Data – Joseph Niamké
+# 🧑‍🎓 Bienvenue dans mon portfolio d'analyste de données !
+Je suis étudiant en Master 2 spécialisé en analyse de données et systèmes décisionnels, passionné par la valorisation des données pour améliorer la prise de décision.
 
-Bienvenue dans mon portfolio de projets orientés **Data Analysis** et **Business Intelligence**.  
-Ces projets utilisent **Excel**, **Power BI**, **Power Query** et **DAX** pour transformer des données brutes en insights exploitables.
+Dans ce portfolio, je vous présente différents projets que j'ai réalisés dans le cadre de ma formation et de mes initiatives personnelles. Ces projets mettent en valeur ma maîtrise des outils et techniques d’analyse de données, notamment :
 
----
+# 🔧 Compétences techniques
+Collecte, nettoyage et intégration de données à partir de sources variées
 
-## 📁 Projets
+Modélisation de bases de données relationnelles (conceptuelle & physique)
 
-### 📊 [1. Rapport RH (Excel)](./Rapport%20RH)
+Conception et automatisation de tableaux de bord dynamiques
 
-> Analyse RH : effectifs, genre, ancienneté, absences
+Analyse statistique et exploration de données
 
-- Visualisations dynamiques via segments
-- Tableaux croisés dynamiques et formules avancées
-- Fichier Excel final + données brutes
+Développement de processus ETL avec Power Query ou SQL
 
-📁 [Voir le dossier](./Rapport%20RH)
+Visualisation claire des KPIs pour la prise de décision
 
----
+# 💻 Outils & technologies
+Power BI – tableaux de bord dynamiques, DAX, Power Query
 
-### 📈 [2. Tableau de ventes Superstore (Excel)](./Tableau%20de%20ventes%20superstore)
+Excel avancé – TCD, formules, visualisations interactives
 
-> Dashboard Excel interactif basé sur les ventes Superstore.
+SQL / MySQL – extraction, jointures, agrégation
 
-- KPIs : chiffre d’affaires, marges, catégories, produits
-- Graphiques dynamiques et filtres temporels
-- Données brutes + solution Excel
+Python – analyse de données avec pandas / matplotlib
 
-📁 [Voir le dossier](./Tableau%20de%20ventes%20superstore)
+UML & PowerAMC – modélisation conceptuelle
 
----
+GitHub – versionnement de mes projets
 
-### 📊 [3. Tableau de bord commercial (Power BI)](./Tableau%20vente%20commerciale)
+# 📁 À propos des projets
+Dans ce dépôt GitHub, vous trouverez :
 
-> Dashboard Power BI pour le suivi global de l’activité commerciale.
+Des dashboards commerciaux avec Power BI
 
-- KPIs mensuels : chiffre d'affaires, marges, écarts N/N-1
-- Visualisations dynamiques, mesures DAX
-- Power Query + données sources
+Des analyses de ventes réalisées sur Excel
 
-📁 [Voir le dossier](./Tableau%20vente%20commerciale)
+Un rapport RH interactif
 
----
-## 🛠️ Compétences Techniques
+Des fichiers de données brutes, les solutions finales, et des captures d’écran de chaque projet
 
-### 🔹 Analyse & Data Engineering
-- Modélisation de bases de données relationnelles
-- Profilage et évaluation de la qualité des données
-- Collecte, nettoyage et analyse de données issues de différentes sources
-- Développement de rapports et de tableaux de bord interactifs
-- Analyse statistique des données
-- Automatisation et optimisation des rapports de performance
-- Conception de processus ETL (Extract, Transform, Load)
+Bientôt : des notebooks Python et requêtes SQL sur des datasets publics
 
-### 🔹 Outils & Langages
-- **Power BI** (visualisations, DAX, Power Query)
-- **Excel** (formules, TCD, Power Query)
-- **SQL** / **MySQL**
-- **Python** (analyse de données)
-- **GitHub** (versioning de projets)
-- **UML**, **PowerAMC** (modélisation)
-- **Langage DAX**
+Chaque projet est organisé dans un dossier dédié avec un fichier README.md décrivant les objectifs, les outils utilisés, les KPIs suivis, et les résultats obtenus.
 
+# 🎯 Objectif
+Ce portfolio reflète mon intérêt pour l’analyse de données, ma capacité à résoudre des problèmes réels avec les bons outils, et ma volonté constante de progresser dans ce domaine. Je suis ouvert à toute opportunité de stage, alternance ou collaboration dans le domaine de la data.
 
----
-
-📬 **Contact** : josephniamke16@gmail.com  
-🔗 **GitHub** : [github.com/JosephNiamke](https://github.com/JosephNiamke)
+📫 Contact : josephniamke16@gmail.com
+🔗 GitHub : github.com/JosephNiamke
+💼 linkedin: https://www.linkedin.com/in/joseph-niamk%C3%A9-855194302?trk=blended-typeahead
