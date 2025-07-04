@@ -1,101 +1,69 @@
-# 📊 Portfolio de Projets Data
+# 💼 Portfolio Data – Joseph Niamké
 
-Bienvenue sur mon dépôt GitHub dédié à mes projets en data.  
-Ce portfolio regroupe plusieurs réalisations effectuées dans le cadre de ma formation / mes projets personnels, dont :
-
-- Des *tableaux de bord interactifs* avec Power BI, Tableau et Streamlit
-- Un *projet complet de base de données décisionnelle (data warehouse)* avec modélisation, SQL, et automatisation d’un pipeline ETL
+Bienvenue dans mon portfolio de projets orientés **Data Analysis** et **Business Intelligence**.  
+Ces projets utilisent **Excel**, **Power BI**, **Power Query** et **DAX** pour transformer des données brutes en insights exploitables.
 
 ---
 
-## 🧭 Sommaire
+## 📁 Projets
 
-- [🔹 Tableaux de bord](#-tableaux-de-bord)
-- [🏗 Base de données décisionnelle](#-base-de-données-décisionnelle)
-- [🛠 Compétences et outils utilisés](#-compétences-et-outils-utilisés)
-- [📸 Aperçus](#-aperçus)
-- [📬 Contact](#-contact)
+### 📊 [1. Rapport RH (Excel)](./Rapport%20RH)
 
----
+> Analyse RH : effectifs, genre, ancienneté, absences
 
-## 🔹 Tableaux de bord
+- Visualisations dynamiques via segments
+- Tableaux croisés dynamiques et formules avancées
+- Fichier Excel final + données brutes
 
-### 1. Dashboard des ventes — Power BI  
-*Objectif :* Suivre les ventes par produit, pays, et période  
-*Fonctionnalités :*
-- Filtres interactifs (date, catégorie, pays)
-- KPIs clés : chiffre d’affaires, top 5 produits, marges
-- Graphiques dynamiques : bar charts, line charts, donut chart  
-📁 [Accéder au projet](./tableau_de_bord_1)
+📁 [Voir le dossier](./Rapport%20RH)
 
 ---
 
-### 2. Analyse satisfaction client — Tableau  
-*Objectif :* Visualiser les retours clients d’un sondage NPS  
-*Fonctionnalités :*
-- Score de satisfaction global et par segment
-- Analyse des réponses ouvertes
-- NPS, CSAT, taux de réponse  
-📁 [Accéder au projet](./tableau_de_bord_2)
+### 📈 [2. Tableau de ventes Superstore (Excel)](./Tableau%20de%20ventes%20superstore)
+
+> Dashboard Excel interactif basé sur les ventes Superstore.
+
+- KPIs : chiffre d’affaires, marges, catégories, produits
+- Graphiques dynamiques et filtres temporels
+- Données brutes + solution Excel
+
+📁 [Voir le dossier](./Tableau%20de%20ventes%20superstore)
 
 ---
 
-### 3. Performance marketing — Python (Streamlit)  
-*Objectif :* Suivre les résultats d'une campagne marketing  
-*Fonctionnalités :*
-- Interface interactive avec Streamlit
-- KPIs : taux de conversion, coût par clic, ROI
-- Graphiques avec Plotly et Matplotlib  
-📁 [Accéder au projet](./Tableau de ventes commerciales)
+### 📊 [3. Tableau de bord commercial (Power BI)](./Tableau%20vente%20commerciale)
+
+> Dashboard Power BI pour le suivi global de l’activité commerciale.
+
+- KPIs mensuels : chiffre d'affaires, marges, écarts N/N-1
+- Visualisations dynamiques, mesures DAX
+- Power Query + données sources
+
+📁 [Voir le dossier](./Tableau%20vente%20commerciale)
+
+---
+## 🛠️ Compétences Techniques
+
+### 🔹 Analyse & Data Engineering
+- Modélisation de bases de données relationnelles
+- Profilage et évaluation de la qualité des données
+- Collecte, nettoyage et analyse de données issues de différentes sources
+- Développement de rapports et de tableaux de bord interactifs
+- Analyse statistique des données
+- Automatisation et optimisation des rapports de performance
+- Conception de processus ETL (Extract, Transform, Load)
+
+### 🔹 Outils & Langages
+- **Power BI** (visualisations, DAX, Power Query)
+- **Excel** (formules, TCD, Power Query)
+- **SQL** / **MySQL**
+- **Python** (analyse de données)
+- **GitHub** (versioning de projets)
+- **UML**, **PowerAMC** (modélisation)
+- **Langage DAX**
+
 
 ---
 
-## 🏗 Base de données décisionnelle
-
-### 📌 Objectif :  
-Créer un entrepôt de données pour une chaîne de magasins afin de centraliser les ventes, les clients et les produits dans un environnement décisionnel.
-
-### 🧱 Contenu :
-- Modèle conceptuel et logique (MCD, MPD) — schéma en étoile
-- Scripts SQL (PostgreSQL) pour créer les tables dimensionnelles et de faits
-- Script Python pour charger les données (pipeline ETL)
-- Jeu de données simulé (CSV)
-
-📁 [Accéder au projet](./datawarehouse)
-
----
-
-## 🛠 Compétences et outils utilisés
-
-| Outils & Langages | Utilisation |
-|------------------|-------------|
-| *Power BI*     | Visualisation de données, création de rapports |
-| *Python*       | Analyse de données, Streamlit, ETL |
-| *SQL*          | Création et requêtage d’un data warehouse |
-| *Excel*       | Visualisation de données |
-| *PostgreSQL*   | Base de données décisionnelle |
-| *Modélisation* | Schéma en étoile (fact/dimension), MCD / MPD |
-
----
-
-## 📸 Aperçus
-
-### Power BI (Dashboard Ventes)  
-  
-![ventes](https://github.com/user-attachments/assets/c9bd5f42-d51d-4464-bd49-1796cecf5c53)
-
-### Power BI (Dashboard Ventes Commerciale)
-![Vue globale](https://github.com/user-attachments/assets/85deb879-d2fb-4670-8088-49473df9161f)
-
-### Power BI (Dashboard RH)  
-
----![hr](https://github.com/user-attachments/assets/4172986e-23ea-42cf-bd35-1af578d48492)
-
-
-## 📬 Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ton-profil/)
-- 📧 Email : [josephniamke16@gmail.com]
-
-Merci pour votre visite ! 🙏  
-N’hésitez pas à me contacter pour discuter de data, projets, ou collaborations.
+📬 **Contact** : josephniamke16@gmail.com  
+🔗 **GitHub** : [github.com/JosephNiamke](https://github.com/JosephNiamke)
