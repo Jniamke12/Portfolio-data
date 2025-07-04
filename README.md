@@ -34,24 +34,6 @@ Je suis **étudiant en Master 1 MIAGE** (Méthodes Informatiques Appliquées à 
 
 ---
 
-## 📁 Projets inclus
-
-### 📊 [1. Défis (SQL)](./Défis%20SQL)
-> Analyse des effectifs, absences, genre, ancienneté  
-📌 Tableaux croisés dynamiques, KPIs RH
-### 📊 [2. Rapport RH (Excel)](./Rapport%20RH)
-> Analyse des effectifs, absences, genre, ancienneté  
-📌 Tableaux croisés dynamiques, KPIs RH
-
-### 📈 [3. Analyse des ventes – Superstore (Excel)](./Tableau%20de%20ventes%20superstore)
-> Suivi des ventes, rentabilité, produits & clients performants  
-📌 Power Query, TCD, formules avancées
-
-### 📊 [4. Dashboard commercial (Power BI)](./Tableau%20vente%20commerciale)
-> Suivi du chiffre d’affaires, marge, comparatif N/N-1  
-📌 Power BI + DAX + filtres dynamiques
-
----
 
 ## 🎯 Objectif du portfolio
 
