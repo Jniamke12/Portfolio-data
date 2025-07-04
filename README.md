@@ -46,7 +46,7 @@ Ce portfolio regroupe plusieurs réalisations effectuées dans le cadre de ma fo
 - Interface interactive avec Streamlit
 - KPIs : taux de conversion, coût par clic, ROI
 - Graphiques avec Plotly et Matplotlib  
-📁 [Accéder au projet](./tableau_de_bord_3)
+📁 [Accéder au projet](Portfolio-Data/Tableau de ventes commerciales)
 
 ---
 
@@ -81,11 +81,13 @@ Créer un entrepôt de données pour une chaîne de magasins afin de centraliser
 ## 📸 Aperçus
 
 ### Power BI (Dashboard Ventes)  
-![aperçu_dashboard1](./captures/dashboard_powerbi.png)
-### Power BI (Dashboard Ventes Commerciale)  
-![Rapport RH](Porfolio-Data/Tableu vente commerciale/Capture/vente.jpeg)
+  
+![ventes](https://github.com/user-attachments/assets/c9bd5f42-d51d-4464-bd49-1796cecf5c53)
+
+### Power BI (Dashboard Ventes Commerciale)
+![Vue globale](https://github.com/user-attachments/assets/85deb879-d2fb-4670-8088-49473df9161f)
+
 ### Power BI (Dashboard RH)  
-![Rapport RH](Porfolio-Data/Rapport RH/Capture//hr.jpeg)
 
 ---![hr](https://github.com/user-attachments/assets/4172986e-23ea-42cf-bd35-1af578d48492)
 
