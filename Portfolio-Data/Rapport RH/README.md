@@ -40,9 +40,9 @@ Ces données permettent d’identifier les besoins en formation et les axes d’
 
 | Fichier | Description |
 |--------|-------------|
-| `Dataset RH.xlsx` | Données sources utilisées dans Power BI |
-| `Dashboard RH.pbix` | Fichier Power BI contenant le tableau de bord |
-| `captures/dashboard_RH.png` *(optionnel)* | Capture du tableau de bord |
+| `HRData.xlsx` | Données sources utilisées dans Power BI |
+| `ProjetRH.pbix` | Fichier Power BI contenant le tableau de bord |
+| `captures/hr.png` *(optionnel)* | Capture du tableau de bord |
 
 ---
 
@@ -73,5 +73,5 @@ Ce projet RH m’a permis d’approfondir mes compétences en **Business Intelli
 ## 📬 Me contacter
 
 💼 (https://www.linkedin.com/in/joseph-niamk%C3%A9-855194302?trk=blended-typeahead)
-📧 Email: josephniamke16@gmail.com
+📧 Email: angeniamke2002@gmail.com
 🌐 GitHub : [github.com/JosephNiamke](https://github.com/JosephNiamke)
