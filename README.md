@@ -46,7 +46,7 @@ Ce portfolio regroupe plusieurs réalisations effectuées dans le cadre de ma fo
 - Interface interactive avec Streamlit
 - KPIs : taux de conversion, coût par clic, ROI
 - Graphiques avec Plotly et Matplotlib  
-📁 [Accéder au projet](Portfolio-Data/Tableau de ventes commerciales)
+📁 [Accéder au projet](./Tableau de ventes commerciales)
 
 ---
 
