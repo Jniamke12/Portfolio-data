@@ -43,9 +43,9 @@ Transformations réalisées avec **Power Query** : nettoyage, types de données,
 
 ## 📁 Fichiers inclus
 
-- `ventes commerciale.pbix` : le fichier  Power BI complet
-- `Capture/Vue globale.png` : aperçu du dashboard principal
-- `Capture/Mesure.png` : aperçu des mesures DAX
+- `fichier_pbix/` : le fichier `.pbix` Power BI complet
+- `captures/vue_globale.png` : aperçu du dashboard principal
+- `captures/mesures_dax.png` : aperçu des mesures DAX
 
 ---
 
