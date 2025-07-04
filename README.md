@@ -83,13 +83,12 @@ Créer un entrepôt de données pour une chaîne de magasins afin de centraliser
 ### Power BI (Dashboard Ventes)  
 ![aperçu_dashboard1](./captures/dashboard_powerbi.png)
 ### Power BI (Dashboard Ventes Commerciale)  
-![aperçu_dashboard1](./captures/hr.jpeg)
+![Rapport RH](Porfolio-Data/Tableu vente commerciale/Capture/vente.jpeg)
 ### Power BI (Dashboard RH)  
 ![Rapport RH](Porfolio-Data/Rapport RH/Capture//hr.jpeg)
 
-> *(Ajoute ici tes captures d’écran dans un dossier /captures/ pour que ça fonctionne)*
+---![hr](https://github.com/user-attachments/assets/4172986e-23ea-42cf-bd35-1af578d48492)
 
----
 
 ## 📬 Contact
 
