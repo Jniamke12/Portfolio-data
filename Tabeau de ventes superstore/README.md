@@ -1,72 +1,82 @@
-# 📊 Tableau de bord Power BI – Analyse de ventes Commerciale Globale
+## Dashboard de Ventes Superstores
 
-Ce projet est un tableau de bord interactif créé avec **Power BI**, conçu pour permettre un suivi global de l'activité commerciale : ventes, marges, transactions, coûts et inventaire. Il inclut des visualisations dynamiques, des filtres contextuels et des mesures DAX avancées.
+Ce tableau de bord interactif présente une analyse complète des ventes, bénéfices et performances clients d’une entreprise. Il a été conçu pour offrir une visualisation claire, intuitive et exploitable des données grâce à plusieurs indicateurs clés et graphiques dynamiques.
 
----
+🎯 Objectif du Dashboard
 
-## 🎯 Objectifs du projet
+Fournir une vue d’ensemble stratégique permettant :
+	•	le suivi du chiffre d’affaires,
+	•	l’analyse des ventes par produits, catégories et régions,
+	•	l’identification des clients les plus rentables,
+	•	la prise de décision basée sur les tendances réelles.
 
-- Visualiser les indicateurs commerciaux clés
-- Suivre l’évolution mensuelle des quantités, du chiffre d’affaires et des marges
-- Comparer les performances N / N-1
-- Mettre en évidence les écarts par période
-- Automatiser le nettoyage et la transformation des données via Power Query
+⸻
 
----
+## ⭐ Principales Fonctionnalités
 
-## 🔍 Fonctions principales
+## *KPI – Indicateurs clés*
+	•	Chiffre d’Affaires Total : 1 099 862 XOF
+	•	Nombre d’Articles Vendus : 19 044
+	•	Bénéfices Générés : 132 516 XOF
 
-- KPIs dynamiques : Quantité totale, Nombre de transactions, Chiffre d’affaires, Marges, Ventes nettes
-- Segmentation par :
-  - Département
-  - Catégorie
-  - Fournisseur / Magasin
-  - Période personnalisable
-- Évolution mensuelle des quantités
-- Répartition des ventes et marges par catégorie
-- Comparaison N / N-1 avec variation en pourcentage (DAX)
+## *Visualisations incluses*
+	•	Tendances des ventes (graphique linéaire)
+	•	Répartition des ventes par catégories (diagramme circulaire)
+	•	Taux de bénéfice par catégorie (diagramme circulaire)
+	•	Ventes et bénéfices par régions (graphique combiné)
+	•	Produits les plus vendus (bar chart)
+	•	Top 5 des meilleurs clients (bar chart)
 
----
+## Filtres dynamiques
+	•	Dates, années
+	•	Catégories de produits
 
-## 🧠 DAX & Power BI Techniques
+⸻
 
-Exemples de mesures DAX utilisées :
-- `chiffre_affaire`
-- `ecart_chiffre_affaire n-1 %`
-- `cout YTD`
-- `indicateur_selectionne`
-- `PeriodeDynamique` pour la sélection contextuelle
+## 🛠️ Compétences mises en avant
+	•	Dashboard de Performance Commerciale
 
-Transformations réalisées avec **Power Query** : nettoyage, types de données, jointures.
+Ce tableau de bord interactif présente une analyse complète des ventes, bénéfices et performances clients d’une entreprise. Il a été conçu pour offrir une visualisation claire, intuitive et exploitable des données grâce à plusieurs indicateurs clés et graphiques dynamiques.
 
----
+## 🎯 Objectif du Dashboard
 
-## 📁 Fichiers inclus
+Fournir une vue d’ensemble stratégique permettant :
+	•	le suivi du chiffre d’affaires,
+	•	l’analyse des ventes par produits, catégories et régions,
+	•	l’identification des clients les plus rentables,
+	•	la prise de décision basée sur les tendances réelles.
 
-- `SUPERSTORE2.xlsx/` : le fichier Power BI complet
-- `captures/ventes.jpeg` : aperçu du dashboard principal
+⸻
 
+## ⭐ Principales Fonctionnalités
 
----
+KPI – Indicateurs clés
+	•	Chiffre d’Affaires Total : 1 099 862 XOF
+	•	Nombre d’Articles Vendus : 19 044
+	•	Bénéfices Générés : 132 516 XOF
 
-## 🛠️ Outils utilisés
+Visualisations incluses
+	•	Tendances des ventes (graphique linéaire)
+	•	Répartition des ventes par catégories (diagramme circulaire)
+	•	Taux de bénéfice par catégorie (diagramme circulaire)
+	•	Ventes et bénéfices par régions (graphique combiné)
+	•	Produits les plus vendus (bar chart)
+	•	Top 5 des meilleurs clients (bar chart)
 
-| Outil / Langage | Utilisation |
-|------------------|-------------|
-| **Power BI**     | Visualisation, rapports interactifs |
-| **DAX**          | Calculs dynamiques et personnalisés |
-| **Power Query**  | Transformation et nettoyage des données |
-| **Excel / CSV**  | Source de données (si applicable) |
+Filtres dynamiques
+	•	Dates, années
+	•	Catégories de produits
 
----
+⸻
 
-## 🧠 Compétences développées
-
-- Conception de dashboards métier
-- DAX avancé : comparaison temporelle, variation %
-- Nettoyage de données avec Power Query
-- Visualisation orientée business
-
----
-
-📌 Ce tableau de bord est conçu pour une **analyse stratégique et opérationnelle**. Il pourrait être utilisé par des équipes commerciales ou de direction pour le suivi quotidien et mensuel des performances.
+## 🛠️ Compétences mises en avant
+	•	Analyse de données
+	•	Construction de dashboards professionnels
+	•	Visualisation de données
+	•	Maîtrise des slicers et fonctionnalités avancées
+	•	Conception orientée décisionnel (BI)
+Analyse de données
+	•	Construction de dashboards professionnels
+	•	Visualisation de données
+	•	Maîtrise des slicers et fonctionnalités avancées
+	•	Conception orientée décisionnel (BI)
